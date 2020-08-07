@@ -6,7 +6,7 @@ Created on Fri Apr 17 19:29:26 2020
 """
 
 
-def bubble(a):
+def bubblesort(a):
     n = len(a)
     
     for i in range(n):
@@ -18,7 +18,7 @@ def bubble(a):
 
 
 a = [7,6,3,4,2,1]
-bubble(a)
+bubblesort(a)
 
 for i in a:
     print(i)
