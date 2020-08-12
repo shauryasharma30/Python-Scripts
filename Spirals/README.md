@@ -1,1 +1,1 @@
-Beginner spirals with puthon
+Beginner spirals with python
